@@ -155,7 +155,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url("/images/hero-bg.jpg");
+    url("../images/hero-bg.jpg");
   max-width: 1600px;
 }
 
@@ -228,19 +228,19 @@ img {
 }
 
 .advantages-list-item:first-child .advantages-title::before {
-  background-image: url("/images/svg/antenna.svg");
+  background-image: url("../images/svg/antenna.svg");
 }
 
 .advantages-list-item:nth-child(2) .advantages-title::before {
-  background-image: url("/images/svg/clock.svg");
+  background-image: url("../images/svg/clock.svg");
 }
 
 .advantages-list-item:nth-child(3) .advantages-title::before {
-  background-image: url("/images/svg/diagram.svg");
+  background-image: url("../images/svg/diagram.svg");
 }
 
 .advantages-list-item:last-child .advantages-title::before {
-  background-image: url("/images/svg/astronaut.svg");
+  background-image: url("../images/svg/astronaut.svg");
 }
 
 .advantages-descriprion {
