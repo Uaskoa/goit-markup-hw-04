@@ -480,6 +480,7 @@ img {
 
 .footer .container {
   display: flex;
+  align-items: baseline;
 }
 
 .footer-contacts {
@@ -490,8 +491,9 @@ img {
   display: block;
   font-family: var(--main-font);
   font-style: normal;
+  font-weight: 700;
   font-size: 14px;
-  line-height: 1, 143;
+  line-height: 1.143;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #ffffff;
