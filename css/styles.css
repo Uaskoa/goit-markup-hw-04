@@ -466,7 +466,8 @@ img {
   color: #ffffff;
 }
 
-.footer-contacts {
+.footer-mail,
+.footer-tel {
   font-weight: 400;
   font-size: 14px;
   line-height: 1.714;
@@ -484,7 +485,7 @@ img {
 }
 
 .footer-contacts {
-  margin-right: 82px;
+  margin-right: 70px;
 }
 
 .join {
